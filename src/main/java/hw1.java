@@ -1,4 +1,5 @@
 public class hw1 {
+
     /*
     Как организовать клиент-серверное взаимодействие?
     Как и в каком виде передавать файлы?
@@ -19,4 +20,7 @@ public class hw1 {
 
 
 */
+    public static void main(String[] args) {
+
+    }
 }
